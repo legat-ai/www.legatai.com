@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as s,O as t}from"./chunks/framework.ee05e8ef.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"lt/paslaugos.md","filePath":"lt/paslaugos.md"}'),e={name:"lt/paslaugos.md"},n=t("",7),o=[n];function r(p,l,m,k,u,d){return a(),s("div",null,o)}const _=i(e,[["render",r]]);export{g as __pageData,_ as default};
